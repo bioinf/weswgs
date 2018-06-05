@@ -112,6 +112,12 @@ tdf = data.frame(bs = bs_vals)
 ggplot(tdf, aes(x=bs)) + geom_density(fill='red') + scale_x_continuous(limits=c(0, 0.16)) + 
   geom_vline(xintercept = mean(dvars[tset, 'V5'])) + theme_bw()
 
+mfs = read.table('all_MF_sorted.tsv', header=T, sep='\t')
+mfs$DV = dvars[, 'V5']
+ggplot(mfs, aes(x=MF_agilent, y=DV)) + geom_point() + theme_bw() +
+  scale_y_continuous(limits = c(0,1)) + xlab('Multimapper coverage fraction') + 
+  ylab('ExAC variant site density per nucl.')
+
 #==============================================
 # Variants inside bait regions - SI
 hist2 = read.table('bait_vars.hist', header=F, sep='\t')
