@@ -23,4 +23,4 @@ Subfolder contents:
 
 For Fig_3, some larger data files are available through Google Drive:
 
-https://yourmom.drive.google.com/sofat/
+https://drive.google.com/drive/folders/179iwL44LDdSeII6D_iy_uXYOOBNyyP58?usp=sharing
