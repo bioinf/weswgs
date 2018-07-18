@@ -15,7 +15,7 @@ Subfolder contents:
     
 `./coverage_analysis/wie_profiles/` - scripts to make mean WIE profiles for a selection of samples, per-platform
 
-`./Fig_1 - Fig_4` - R scripts and data files used to create figures
+`./Fig_1 - Fig_5` - R scripts and data files used to create figures
 
 `./variant_analysis` - scripts used to analyze variant calling results
 
