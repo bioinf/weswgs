@@ -29,4 +29,4 @@ with open(bgfile, 'r') as bgf, open(outprefix + '.pbase.histogram', 'w') as pbh,
             elif breaks[counter] > int(content[2]):
                 break
 #            else:
-#                print 'Looping over bullshit', counter, content[1], content[2], ' on bait ', this_bait
+#                print 'Looping over something', counter, content[1], content[2], ' on bait ', this_bait
