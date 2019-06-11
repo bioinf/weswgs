@@ -2,7 +2,7 @@
 
 This repository contains all code used to analyze the data and plot figures in the paper:
 
-Barbitoff Y.A., Polev D.E., Shcherbakova E.A., Kiselev A.M., Glotov A.S., Serebryakova E.A., Kostareva A.A., Glotov A.S., and Predeus A.V. (2018) Dissection of systematic and non-systematic biases in human resequencing identifies advantages of modern whole-exome and whole-genome sequencing technologies. *Nat Biotechnol*
+Barbitoff Y.A., Polev D.E., Shcherbakova E.A., Kiselev A.M., Glotov A.S., Serebryakova E.A., Kostareva A.A., Glotov A.S., Glotov O.S., and Predeus A.V. (2019) 	Systematic dissection of biases in whole-exome and whole-genome sequencing reveals major determinants of coding sequence coverage. *Sci Rep*
 
 Subfolder contents:
 
