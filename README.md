@@ -1,11 +1,12 @@
-# Comparison of WES and WGS technologies
+# Determinants of WES and WGS sequencing coverage 
 
 This repository contains all code used to analyze the data and plot figures in the paper:
 
-Barbitoff Y.A., Polev D.E., Shcherbakova E.A., Kiselev A.M., Glotov A.S., Serebryakova E.A., Kostareva A.A., Glotov A.S., Glotov O.S., and Predeus A.V. (2019) 	Systematic dissection of biases in whole-exome and whole-genome sequencing reveals major determinants of coding sequence coverage. *Sci Rep*
+*Barbitoff Y.A., Polev D.E., Shcherbakova E.A., Kiselev A.M., Glotov A.S., Serebryakova E.A., Kostareva A.A., Glotov A.S., Glotov O.S., and Predeus A.V. (2019)* Systematic dissection of biases in whole-exome and whole-genome sequencing reveals major determinants of coding sequence coverage. *Scientific Reports*
 
-Subfolder contents:
+<img align="right" width="800" height="800" src="https://github.com/bioinf/weswgs/blob/master/img/circa1.png">
 
+## Subfolder contents:
 
 `./coverage_analysis` - all scripts used to make alignment and coverage data manipulations
 
@@ -20,6 +21,8 @@ Subfolder contents:
 `./variant_analysis` - scripts used to analyze variant calling results
 
 `./linear_predictions` - scripts and dataset for running GLM and random forest predictions of normalized coverage
+
+## Additional 
 
 For Fig_3, some larger data files are available through Google Drive:
 
