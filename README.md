@@ -2,7 +2,9 @@
 
 This repository contains all code used to analyze the data and plot figures in the paper:
 
-*Barbitoff Y.A., Polev D.E., Shcherbakova E.A., Kiselev A.M., Glotov A.S., Serebryakova E.A., Kostareva A.A., Glotov A.S., Glotov O.S., and Predeus A.V. (2019)* Systematic dissection of biases in whole-exome and whole-genome sequencing reveals major determinants of coding sequence coverage. *Scientific Reports*
+Barbitoff YA, Polev DE, Shcherbakova EA, Kiselev AM, Glotov AS, Serebryakova EA, Kostareva AA, Glotov AS, Glotov OS, Predeus AV [Systematic dissection of biases in whole-exome and whole-genome sequencing reveals major determinants of coding sequence coverage](https://www.nature.com/articles/s41598-020-59026-y), *Scientific Reports* **2020**, 10(1), 1-13.
+
+Preprint is available at [bioRxiv](https://www.biorxiv.org/node/117933.abstract).
 
 <img align="center" width="800" height="800" src="https://github.com/bioinf/weswgs/blob/master/img/circa1.png">
 
@@ -26,6 +28,8 @@ This repository contains all code used to analyze the data and plot figures in t
 
 ## Additional 
 
-For Fig_3, some larger data files are available through Google Drive:
+For Fig\_3, some larger data files are available for download via [Google Drive](https://drive.google.com/drive/folders/179iwL44LDdSeII6D_iy_uXYOOBNyyP58?usp=sharing).
 
-https://drive.google.com/drive/folders/179iwL44LDdSeII6D_iy_uXYOOBNyyP58?usp=sharing
+## Contacts
+
+If you have any questions, please contact Yury A Barbitoff (barbitoff at bioinf me) or Alexander V Predeus (predeus at bioinf me).
